@@ -7,8 +7,8 @@ Sou um developer iniciante que gosta muito de aprender sobre coisas novas
 - 🌱 Estou atualmente cursando tecnologia da informação na FASP - faculdade de santana de parnaíba.
 - 🤝 Estou em busca de aprimorar minhas habilidades e aprender coisas novas. 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaov1029&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1029&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jJoao-Herculano-DuoConect&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Herculano-DuoConect&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
