@@ -2,7 +2,6 @@
 ##
 ### Olá
 ##
-Sou um developer iniciante que gosta muito de aprender sobre coisas novas
 - 🔭 Trabalhando atualmente na empresa DuoConect.
 - 🌱 Estou atualmente cursando tecnologia da informação na FASP - faculdade de santana de parnaíba.
 - 🤝 Estou em busca de aprimorar minhas habilidades e aprender coisas novas. 
