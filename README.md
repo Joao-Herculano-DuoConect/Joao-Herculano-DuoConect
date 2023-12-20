@@ -3,7 +3,7 @@
 ### Olá
 ##
 - 🔭 Trabalhando atualmente na empresa DuoConect.
-- 🌱 Estou atualmente cursando tecnologia da informação na FASP - faculdade de santana de parnaíba.
+- 🌱 Estou atualmente cursando segurança da informação na FATEC - Santana de Parnaíba.
 - 🤝 Estou em busca de aprimorar minhas habilidades e aprender coisas novas. 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Herculano-DuoConect&show_icons=true&theme=nightowl)
